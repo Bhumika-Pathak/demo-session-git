@@ -1,2 +1,1 @@
-# demo-session-git
-this is demo session
+print('hello')
